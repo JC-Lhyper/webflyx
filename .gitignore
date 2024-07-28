@@ -1,11 +1,4 @@
-# *.js
-
-*.txt
-!names.txt
-
-/src/main.py
-
-content.md
+*.html
 
 secure
 guilty_pleasures.md
